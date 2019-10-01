@@ -124,7 +124,7 @@ class: middle, center
 ```{r, out.width='90%'}
 
 knitr::include_graphics(
-  "Intro_to_Predictive_Analytics_files/data_analysis_flow.jpg"
+  "figs/data_analysis_flow.jpg"
 )
 
 ```
